@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm PixelHashi </h1>
 
-<!--
-**DefinetelyNotACat/DefinetelyNotACat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ I’m currently working on JavaFX
+- 🌱 I’m currently learning Computer-Science 
+- ☁️ My dream is to become an inventor
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DefinetelyNotACat&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefinetelyNotACat&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="180" alt="languages" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills
+
+
+### Web-Development
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DefinetelyNotACat&theme=dark)](https://git.io/streak-stats)
