@@ -18,7 +18,7 @@
 </div>
 
 
-# My skills
+
 
 
 # 💻 Tech Stack
