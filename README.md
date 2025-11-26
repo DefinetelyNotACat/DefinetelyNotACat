@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm PixelHashi </h1>
+<div align = "center">
+  <img width= "667" height = "1010" src= "https://github.com/user-attachments/assets/09dd3386-4b60-4ba7-bbb0-a5b5b48e02d6" />
+
+</div>
+
 
 # About Me 🌀
+
 - ⚙️ I’m currently working on building a vinted-similar clone with JavaFX
 - 🌱 I’m currently learning Computer-Science
 - 🚀 My goal is to master Computer Science, Math and Graphic design 
 - 💭 My dream is to become an inventor
+
 
 
 # 📊 GitHub Stats:
@@ -22,6 +29,7 @@
 
 
 # 💻 Tech Stack
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/bbbaf6bc-84b9-4e37-a767-1fd2384eb3fd" />
 
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
