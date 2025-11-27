@@ -101,3 +101,7 @@
 <div align="center">
   <img src="https://github.com/DefinetelyNotACat/DefinetelyNotACat/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</div>
