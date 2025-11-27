@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm PixelHashi </h1>
-<div align = "center">
-  <img width= "667" height = "1010" src= "https://github.com/user-attachments/assets/09dd3386-4b60-4ba7-bbb0-a5b5b48e02d6" />
 
+
+
+
+<div align = "center">
+  <!-- <img width= "667" height = "1010" src= "https://github.com/user-attachments/assets/09dd3386-4b60-4ba7-bbb0-a5b5b48e02d6" /> -->
+  <img width= "450" height = "700" src= "https://github.com/user-attachments/assets/09dd3386-4b60-4ba7-bbb0-a5b5b48e02d6" />
+   
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=1000&color=6600ff&center=true&vCenter=true&width=435&lines=Logic;Creative;Curious;Inventive" alt="Typing SVG" />
 </div>
 
 
