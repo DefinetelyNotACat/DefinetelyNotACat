@@ -90,5 +90,5 @@
 [![](https://visitcount.itsvg.in/api?id=DefinetelyNotACat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="https://github.com/TUO-USERNAME/TUO-USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/PixelHashi/PixelHashi/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
