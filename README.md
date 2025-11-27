@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=1000&color=6600ff&center=true&vCenter=true&width=435&lines=Logic;Creative;Curious;Inventive" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=1000&color=6600ff&center=true&vCenter=true&width=435&lines=Logic;Creative;Dedicated;Curious;Inventive" alt="Typing SVG" />
 </div>
 
 
