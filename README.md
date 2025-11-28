@@ -26,11 +26,12 @@
 # 📊 GitHub Stats:
 <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=DefinetelyNotACat&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true"/ >
-    <img src = "https://nirzak-streak-stats.vercel.app/?user=DefinetelyNotACat&theme=synthwave&hide_border=false" / >
-</div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefinetelyNotACat&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </div>
 
 <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefinetelyNotACat&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+     <img src = "https://nirzak-streak-stats.vercel.app/?user=DefinetelyNotACat&theme=synthwave&hide_border=false" / >
+
 </div>
 
 
