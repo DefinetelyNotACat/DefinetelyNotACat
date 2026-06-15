@@ -5,7 +5,7 @@
 
 <div align = "center">
   <!-- <img width= "667" height = "1010" src= "https://github.com/user-attachments/assets/09dd3386-4b60-4ba7-bbb0-a5b5b48e02d6" /> -->
-  <img width= "450" height = "700" src= "https://github.com/user-attachments/assets/09dd3386-4b60-4ba7-bbb0-a5b5b48e02d6" />
+  <img width= "450" height = "450" src= "https://github.com/user-attachments/assets/09dd3386-4b60-4ba7-bbb0-a5b5b48e02d6" />
    
 </div>
 
